@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Anthony Sokry</h1>
 <h3 align="center">Software and Game Programmer</h3>
 
-- 👨‍💻 Website: [anthonysokry.com](https://anthonysokry.com)
+- 👨‍💻 Website: [asokry.github.io](https://asokry.github.io/)
 
 - 📫 Email: **anthonysokry@gmail.com**
 
@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asokry&show_icons=true&locale=en&layout=compact" alt="asokry" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asokry&show_icons=true&locale=en" alt="asokry" /></p>
+
